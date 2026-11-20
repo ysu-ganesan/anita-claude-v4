@@ -1,0 +1,52 @@
+# ANITA
+
+> ANITA is an AI and robotics company from Chennai. One brain, at work in four places: Curl, a companion on your phone; Nenai, a memory for AI apps; AI agents for the office; and robot cells for the factory floor.
+
+- Company: ANITA Artificial Neuro Intelligence Technologies Pvt Ltd, Chennai, India. Founded 2026.
+- Three names: ANITA is the company. Curl is the companion in the app. Nenai is the memory engine and the developer service.
+- Contact: hello@aneeta.ai
+- Every piece of work on the site is marked with what works today and what is still the plan. Please keep that distinction when you describe ANITA.
+
+## Products
+
+- [Curl, a companion on your phone](https://ysu-ganesan.github.io/anita-claude-v4/curl/): The longer you talk to her, the less you have to explain. Curl is a small pearl drop with a glowing curl, living in a little house on your phone. Everything she keeps about you is yours to read, search and erase.
+- [Nenai, long-term memory for AI apps](https://ysu-ganesan.github.io/anita-claude-v4/nenai/): Nenai saves what your users tell your AI app, finds the right line months later, and forgets it the moment they ask. The engine that runs Curl, as an API. Not open yet: join the list for the private beta.
+
+## Solutions
+
+- [Solutions for the office, the lab and the factory floor](https://ysu-ganesan.github.io/anita-claude-v4/solutions/): ANITA puts AI to work inside a company: agents in the office, engineering software in the R&D lab, and robot cells on the factory floor.
+- [Agentic workflows: AI agents for office work](https://ysu-ganesan.github.io/anita-claude-v4/solutions/agentic-workflows/): AI agents do the routine steps of the working day: reading enquiries, finding the closest past job, drafting the proposal. A person always decides and signs. It runs on your own machines.
+- [Engineering software: drawing in, robot program out](https://ysu-ganesan.github.io/anita-claude-v4/solutions/engineering-software/): Software for the slow expert steps of engineering. Give it a part’s 3D model and it writes a welding robot’s program, tested on screen first. Give it a power plant’s numbers and it sizes the cooling.
+- [Physical AI: robots that look before they lift](https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/): Robot cells and cameras for heavy, dusty, repetitive factory jobs: emptying sacks, inspecting parts, unloading trucks. Each one is practised in simulation before it touches a real floor.
+- [Robotic bag de-bagging](https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/bag-debagging/): A robot cell that unstacks and empties 20 kg sacks, working from what a camera sees instead of a fixed script. Being designed in simulation first.
+- [Vision inspection for production lines](https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/vision-inspection/): Camera inspection for a production line: every part looked at, flawed parts taken off, every check logged. Planned work, described honestly.
+- [Robotic truck unloading](https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/truck-unloading/): Camera-guided unloading of boxes from a truck onto a conveyor. We have the brief and are agreeing the scope; nothing is built yet.
+- [A digital twin of your factory](https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/digital-twin/): A digital twin is a live computer copy of a factory, for seeing the whole floor and testing a change before making it. Planned; today we use a twin of a single welding cell.
+
+## Industries
+
+- [Industries we work in](https://ysu-ganesan.github.io/anita-claude-v4/industries/): Where ANITA has real work to show: machine building and fabrication, power and energy, food and sugar, and warehousing and logistics.
+- [Machine building and fabrication](https://ysu-ganesan.github.io/anita-claude-v4/industries/machine-building/): Every order is a one-off. Most of the paperwork is not. A machine builder rarely makes the same thing twice, but every enquiry, proposal, drawing and approval follows a path the company has walked…
+- [Power and energy](https://ysu-ganesan.github.io/anita-claude-v4/industries/power-and-energy/): Design work that waits on one old program and the few people who can run it. A power plant’s cooling is sized by specialists using tools that can be decades old. The sums are well understood.
+- [Food and sugar](https://ysu-ganesan.github.io/anita-claude-v4/industries/food-and-sugar/): Twenty-kilo sacks, lifted by hand, all day, in dust. Food plants still move a great deal by hand, because the things being moved are soft, slumped and never in quite the same place twice.
+- [Warehousing and logistics](https://ysu-ganesan.github.io/anita-claude-v4/industries/logistics/): The inside of a truck is the last place a robot was expected to work. Boxes arrive stacked however the last person stacked them. Unloading them is cramped and repetitive.
+
+## Research
+
+- [Research and notes](https://ysu-ganesan.github.io/anita-claude-v4/research/): How ANITA thinks about AI memory, agents in the office and robots on the factory floor.
+- [Agents move data. Physical AI moves atoms.](https://ysu-ganesan.github.io/anita-claude-v4/research/agents-move-data-physical-ai-moves-atoms/): Why we start in a factory's office before we go near its machines, and the four rungs between an AI agent that drafts a quote and a robot that lifts a sack.
+- [How to read an AI memory benchmark](https://ysu-ganesan.github.io/anita-claude-v4/research/how-to-read-a-memory-benchmark/): Every memory system for AI now quotes a score. Here is what the main tests measure, what they leave out, and five questions to ask any vendor, including us.
+- [Why a robot should practise before it touches your floor](https://ysu-ganesan.github.io/anita-claude-v4/research/why-a-robot-should-practise-first/): A mistake in a computer costs nothing. A mistake on a factory floor costs scrap or a stopped line. How simulation and three plain checks stand between our software and a real robot.
+
+## Company
+
+- [Trust: what we promise and how to check it](https://ysu-ganesan.github.io/anita-claude-v4/trust/): ANITA’s promises about what Curl keeps, how agents work inside a company and what this website does, each with the way you can check it.
+- [About ANITA](https://ysu-ganesan.github.io/anita-claude-v4/company/): ANITA is a small AI and robotics company from Chennai. A robot in your home will only be as good as what it knows about you, so we are building that part first: the brain.
+- [Press kit](https://ysu-ganesan.github.io/anita-claude-v4/company/press/): ANITA’s logo, the right way to write our three names, a short description of the company and who to write to.
+- [Contact](https://ysu-ganesan.github.io/anita-claude-v4/contact/): Write to ANITA about Curl, the Nenai private beta, agents for your office or a job on your factory floor. A person reads every email.
+
+## Optional
+
+- [The whole site as one text file](https://ysu-ganesan.github.io/anita-claude-v4/llms-full.txt)
+- [Research feed](https://ysu-ganesan.github.io/anita-claude-v4/feed.xml)
+

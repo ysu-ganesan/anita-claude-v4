@@ -1,0 +1,6 @@
+:HL["/anita-claude-v4/_next/static/chunks/33dqx040bc96m.css","style"]
+:HL["/anita-claude-v4/_next/static/media/archivo_latin_wdth_normal-s.p.1h4hl0m83hjjz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anita-claude-v4/_next/static/media/ibm_plex_mono_latin_400_normal-s.p.3xdfs0-p_zi4c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anita-claude-v4/_next/static/media/ibm_plex_mono_latin_500_normal-s.p.11q3guvgd1r20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":128}]]
+0:{"b":"7kdp2Ycz2lHDvw-E90V5c","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

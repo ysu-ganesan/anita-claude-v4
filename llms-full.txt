@@ -1,0 +1,513 @@
+# ANITA
+
+> ANITA is an AI and robotics company from Chennai. One brain, at work in four places: Curl, a companion on your phone; Nenai, a memory for AI apps; AI agents for the office; and robot cells for the factory floor.
+
+- Company: ANITA Artificial Neuro Intelligence Technologies Pvt Ltd, Chennai, India. Founded 2026.
+- Three names: ANITA is the company. Curl is the companion in the app. Nenai is the memory engine and the developer service.
+- Contact: hello@aneeta.ai
+- Every piece of work on the site is marked with what works today and what is still the plan. Please keep that distinction when you describe ANITA.
+
+## Where things stand today
+
+- Curl on iPhone (Curl): [With Apple for review]
+- Curl on Android (Curl): [Being built]
+- The memory engine that runs Curl (Nenai): [Works today]
+- The Nenai developer API (Nenai): [Draft, not open yet]
+- One board for every open job (Agentic workflows): [Works today]
+- Finding the closest past projects (Agentic workflows): [Works today, right about half the time]
+- First drafts of proposals and plans (Agentic workflows): [Works today, first version]
+- Reminders, one live picture, money per project (Agentic workflows): [Planned]
+- A welding robot’s program from a 3D model (Engineering software): [Works in computer tests]
+- Cooling design for power plants (Engineering software): [Being built]
+- A robot cell that empties sugar sacks (Physical AI): [Being designed]
+- Unloading boxes from a truck (Physical AI): [Being scoped]
+- Cameras that inspect the line (Physical AI): [Planned]
+- A digital twin of the whole factory (Physical AI): [Planned]
+- Robots that learn a job in simulation (Physical AI): [Research]
+
+## Curl
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/curl/
+
+The longer you talk, the less you explain. She is a small pearl drop with a glowing curl, living in a little house on your phone. Talk or type. Tell her about your week once, and the next talk starts where the last one stopped.
+
+Status: [With Apple for review] iPhone first. With Apple for review, November 2026. In the store she is listed as ANITA for now. Android is being built.
+
+### All she knows about you is on one page.
+
+Read it, search it, erase any line, or take a copy. Delete your account and it all goes. Never sold, never used for ads.
+
+### Who writes her replies
+
+You say yes: An outside AI model writes her replies: what you say, and what she needs to answer it, goes to the company that runs it. You keep it Private: Only our own model answers. A video call uses the outside model, in Private too, and asks you first.
+
+### She also
+
+- Sees what you show her on a video call.
+- Writes you four cards a day and an intention to keep.
+- Keeps a diary with her own sketches, behind Face ID if you like.
+- Wears what you pick, with credits you earn by using the app.
+- Switches your lights, fan, AC or heater in Apple Home when you ask.
+- Speaks English and Tamil.
+- Answers to the name you give her.
+
+### Apple Health
+
+Switch on Apple Health and she notices your sleep, steps, resting heart rate and workouts. They show on your day page and in her morning note, and in Private mode she can talk about them with you. Your health data is never sent to any AI company, never used for ads and never sold.
+
+### Questions
+
+**Is she a real person?** No. She is an AI, not a person, and she says so.
+
+**Can I see what she knows about me?** Yes. Everything she knows about you is on one page. Read it, search it, erase any line, or take a copy. Delete your account and it all goes.
+
+**Does what I say go to another company?** She asks before your first talk. Say yes, and an outside AI model writes her replies: what you say, and what she needs to answer it, goes to the company that runs it. Or keep it Private, and only our own model answers. A video call uses the outside model, in Private too, and asks you first.
+
+**Is what she keeps sold or used for ads?** No. It is never sold and never used for ads.
+
+**What does she cost?** Nothing. She is free, with nothing to buy. What she wears is paid for with credits you earn by using the app.
+
+**Who is she for?** Adults, 18 and over.
+
+**Which languages does she speak?** English and Tamil.
+
+**Can I change her name?** Yes. She answers to the name you give her.
+
+**Is there an Android app?** It is being built. The iPhone app comes first.
+
+## Nenai
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/nenai/
+
+Long-term memory for your AI app. Nenai saves what your users tell your app, finds the right line months later, and forgets it the moment they ask. It is the same engine that runs our own app, Curl.
+
+Status: [Draft, not open yet] The developer API is a draft from November 2026. It is not open yet, and its details will be shown here when it is ready to share.
+
+- Add: Send the talk as it happens. Pass the messages and say which of your users they belong to. Nenai works out what is worth keeping.
+- Search: Ask in plain words. You get back that user’s lines that answer the question, ranked. Ask for a digest and you also get a short summary of the dated facts.
+- Forget: By id, or in the user’s own words. A forgotten memory leaves search at once and can be brought back for 30 days. One call erases everything about one user.
+
+### Where it stands
+
+- The memory engine: The same engine keeps Curl’s memory. It is what the API puts in your hands. [Works today]
+- The developer API: Add, search, forget, restore, list, get and delete, plus calls for users, usage, project settings and keys. [Draft, not open yet]
+- Python and JavaScript packages: Typed clients with retries, paging and clear errors. Written and tested, not published yet. [Draft, not open yet]
+- A public score: Nenai is entered in the Agent Memory Leaderboard, a public test of memory systems. We will link the result here when its review is published. [Entered, in review]
+- A console: Keys and usage, in the browser. [Being built]
+- Hosting in India: An India-hosted service, for teams whose data has to stay in the country. [Planned]
+- On your own servers: The same engine can run on a customer’s own machines. [By arrangement]
+- Pricing: Not set yet. [Planned]
+
+### Questions
+
+**Can I use it today?** Not yet. The API is a working draft while we finish hosting, accounts and billing. Join the list and a person will write when the private beta opens.
+
+**What makes it different?** Three things we cared about from the start. Forgetting is a call of its own, with a 30-day way back. A project can be set so its memory text is kept away from outside models. And it is the engine behind our own app, Curl, so we live with it every day.
+
+**How do you know it works?** We measure it in public. Nenai is entered in the Agent Memory Leaderboard, and we will link the result on this page when its review is published.
+
+**Where will the data be kept?** The hosted service is not open yet. An India-hosted service is planned for teams whose data has to stay in the country, and the same engine can run on your own machines.
+
+**What does it cost?** Pricing is not set yet.
+
+**Which languages can call it?** There are draft clients for Python 3.10 or newer and for JavaScript and TypeScript on Node 20 or newer. Any language can call the HTTP API directly.
+
+## Agentic workflows
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/solutions/agentic-workflows/
+
+Agents draft. People sign. People chase papers and approvals all day. Here, AI agents do the routine steps and all the work is in one place. A person always decides.
+
+Status: [Being built with a first customer] We are building this inside a working machine builder, one piece at a time. Each line below carries its own mark.
+
+### What works today, and what is still the plan
+
+- Every open job on one board: The piles on desks become one list: every job, one row each. Ask where an approval is and the answer is on the board. [Works today]
+- It finds what you did before: A new project comes in. An agent finds the closest ones you have done before, so nobody has to rely on memory. [Works today, right about half the time]
+- A first draft is waiting: Your team never starts from a blank page. A first draft of the design, the plan or the proposal is already there. [Works today, first version]
+- People sign: Agents prepare the papers. A person always decides and signs. [Drafting works today. Signing on a phone is planned.]
+- Sales leads, found and graded: Agents find sales leads and grade them, so the team calls the good ones first. [Works as a demo]
+- Nobody nags: Work never sits in an inbox for a week. An agent reminds whoever’s turn it is, politely, every time. [Being designed]
+- One picture, no status meetings: Sales, design, purchase, production: everyone sees the same live picture. When one thing moves, everyone’s plan already knows. [Planned]
+- Money per project: Did this project make money or lose it? See where, while it is happening, not months later. [Planned]
+- Capacity: “Do we have people in March?” Answered from real timesheets, not from memory. [Planned]
+- The role remembers: When someone leaves, their knowledge does not leave with them. What the role learned stays with the role. [Planned]
+- We run our own company this way: We are a small team. AI agents work beside us: a request comes in, an agent drafts the plan, our people check and approve. We sell what we use. [Works today]
+
+### How we come to work
+
+- On your premises. It runs on your own machines, so drawings, prices and people’s names stay in the building.
+- Agents draft, people sign. Every quote, report and approval is drafted by an agent and signed by a person. AI never signs, and every step is logged.
+- One workflow first. We agree the success numbers on day one and measure them on day 30. If it does not clear the bar, you keep the report.
+- The role remembers. Designed so that when someone moves on, what they knew stays with the job.
+
+### Questions
+
+**Does our data leave the building?** No. It runs on your own machines, so drawings, prices and people’s names stay in the building.
+
+**Does AI approve or sign anything?** No. Every quote, report and approval is drafted by an agent and signed by a person. AI never signs, and every step is logged.
+
+**How do we start?** With one workflow. We agree the success numbers on day one and measure them on day 30. If it does not clear the bar, you keep the report.
+
+**How good is it today?** It depends on the step, and we say so line by line. Finding the closest past project is right about half the time today, which is why a person still checks every draft.
+
+**What kind of company is it for?** Factories, plants and engineering teams: companies that run on repetitive knowledge work, and whose data cannot go to the cloud.
+
+## Engineering software
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/solutions/engineering-software/
+
+Drawing in. Program out. We write software for the expert steps that hold a project up: programming a welding robot, sizing a power plant’s cooling. You give it the drawing or the numbers. It works the answer out, and an engineer checks it.
+
+### A welding robot’s program, from the 3D model
+
+Today a person teaches the robot every weld by hand, part after part. [Works in computer tests. A real robot is next.]
+
+- You give: The part’s 3D model. The same model your designers already have for a fabricated part.
+- It works out: The seams, their order, the torch paths. It finds the weld seams and ranks them. An operator confirms the order, and it plans the torch paths.
+- The result: The robot’s program, tested on screen. Written for ABB and Yaskawa robots. A digital twin of the cell checks every move for reach and collisions first.
+
+### Cooling design for power plants
+
+Air-cooled condensers cool a plant’s steam with air instead of water. Sizing one is slow work on old tools. [Being built]
+
+- You give: The plant’s numbers. The conditions the condenser has to work in and what it has to achieve.
+- It works out: The sizing. The design suite runs the sums an engineer would otherwise wait for.
+- The result: A design to start from. An engineer reviews it, changes what needs changing and takes it forward.
+
+### Nothing we write moves a real robot until three things are true.
+
+- The real settings are in. The weld settings come from your own approved weld sheet, not from our guesses.
+- It runs clean in the maker’s simulator. The program is checked in the robot maker’s own simulation software, not only in ours.
+- A person watches a dry run. The first run on the real robot is supervised, with no welding.
+
+### Questions
+
+**Has it welded a real part yet?** Not yet. It works end to end in computer tests on a reference part. A real robot is the next step, after the three checks on this page.
+
+**Which robots does it write programs for?** ABB and Yaskawa robots today.
+
+**Can you build software for a different engineering step?** That is how both of these started. Bring the step that holds your projects up, and we will tell you honestly whether it fits.
+
+## Physical AI
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/
+
+Robots that look before they lift. Some jobs are still done by hand because a robot that only repeats a fixed script cannot cope with a slumped sack or a crooked box. We design robot cells that work from what they see, and practise in simulation before they touch your floor.
+
+Status: [Being designed] This is our newest work. Most of it is being designed, and each line says where it stands.
+
+### We start where nothing can break.
+
+Agents move data. Physical AI moves atoms. Each step up asks for more trust, so we earn it one rung at a time.
+
+- Now, the office: Agents that draft, check and chase. People approve. Nothing on the floor is touched. [Being built with a first customer]
+- Next, the floor: Cameras on the line for inspection, defects and maintenance. They watch. They do not move anything. [Planned]
+- In progress, the machines: Seeing meets robots: welding cells and material handling, where the software moves the arm. [Being designed]
+- Later, humanoids: When robots are ready for factories, the brain is already installed. [Later]
+
+### Bag de-bagging
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/bag-debagging/
+
+Emptying sacks of sugar by hand is heavy, dusty and endless. We’re designing a robot cell that takes the job over, working from what it sees rather than a fixed script.
+
+Status: [Being designed] The cell is laid out in simulation and the camera positions are chosen. No robot of ours has lifted a real sack yet.
+
+- The simulation set-up: The tools for building and testing the cell on a computer are in place. [Works today]
+- The cell, laid out in simulation: The robot, the pallet and the cameras are placed, and the camera positions are chosen. [Works today]
+- Simulating a soft sack: Teaching the computer how a floppy sack of sugar behaves when it is gripped and lifted. [Planned]
+- Training the cameras: Making practice pictures in simulation, then teaching the system to find each sack and how it lies. [Planned]
+- A real cell: Built and tried on a real floor. [Planned]
+
+### Vision inspection
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/vision-inspection/
+
+One camera watches the line and catches what tired eyes miss. A flawed part comes off, and every check is on record.
+
+Status: [Planned] Planned. We have not built an inspection station yet.
+
+- An inspection station on a line: A camera, the software that judges each part, and a way to take a flawed part off. [Planned]
+- Checking finished welds: The first thing we want it to look at: every weld our welding software has programmed. [Planned]
+
+### Truck unloading
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/truck-unloading/
+
+Unloading boxes from the back of a truck is cramped and repetitive. A camera looks in, works out which box comes next, and a robot moves it onto the conveyor, box by box.
+
+Status: [Being scoped] We have the brief and are agreeing the scope. Nothing is built yet.
+
+- The scope: Agreeing exactly what the camera-to-conveyor work covers. [Being scoped]
+- A working unloader: Built, then tried on a real truck. [Planned]
+
+### Digital twin
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/solutions/physical-ai/digital-twin/
+
+A digital twin is a live computer copy of your factory. See everything in one place, and test a change there before you make it for real.
+
+Status: [Planned] Planned for a whole factory. Today our welding software already checks every move in a twin of one cell.
+
+- A twin of one welding cell: It checks every move of a weld program for reach and collisions before a robot makes it. [Works in computer tests]
+- A twin of a whole factory: Every station in one live picture. [Planned]
+- What-if tests: Try a change three ways and see which is better, which is worse and which breaks. [Planned]
+
+### Questions
+
+**Is any of this running in a factory today?** No. The sack-emptying cell is being designed in simulation, truck unloading is being scoped, and the rest is planned. We would rather say so than show a demo as a product.
+
+**Why practise in simulation first?** A mistake in a computer costs nothing. A mistake on your floor costs scrap or a stopped line. So every move is tried in simulation before a robot makes it for real.
+
+**Where do we start?** With one job and one honest look at it. Tell us what is lifted, checked or unloaded by hand, and we will say whether a camera and a robot can take it.
+
+## Industries
+
+### Machine building and fabrication
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/industries/machine-building/
+
+A machine builder rarely makes the same thing twice, but every enquiry, proposal, drawing and approval follows a path the company has walked before. That is where agents earn their place: they find the closest job you already did and start from it.
+
+- Agentic workflows: Agents read the enquiry, find the closest past projects and draft the proposal. All the signatures stay with people. [Being built with a first customer]
+- Weld programming from a 3D model: Give it the part’s 3D model. It finds the seams, plans the torch paths and writes the robot’s program, tested on screen first. [Works in computer tests]
+
+### Power and energy
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/industries/power-and-energy/
+
+A power plant’s cooling is sized by specialists using tools that can be decades old. The sums are well understood. What takes the time is running them, checking them and running them again when one number changes.
+
+- Cooling design software: Air-cooled condensers cool a plant’s steam with air instead of water. Our design suite takes the plant’s numbers, works out the sizing and gives the engineer a design to start from. [Being built]
+
+### Food and sugar
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/industries/food-and-sugar/
+
+Food plants still move a great deal by hand, because the things being moved are soft, slumped and never in quite the same place twice. A robot that only repeats a fixed script cannot cope. One that looks first can.
+
+- Bag de-bagging cell: A robot with a camera sees each sack, lifts it and empties it. We are designing the cell in simulation first. [Being designed]
+
+### Warehousing and logistics
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/industries/logistics/
+
+Boxes arrive stacked however the last person stacked them. Unloading them is cramped and repetitive. It is also a seeing problem before it is a lifting problem.
+
+- Truck unloading: A camera looks into the truck and a robot unloads it box by box onto the conveyor. [Being scoped]
+- Vision inspection: A camera over the line catches what tired eyes miss, and logs every check. [Planned]
+
+## Trust
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/trust/
+
+### If you talk to Curl
+
+- Everything she knows about you is on one page. How to check: In the app: Us, then Her memory. Read it and search it there.
+- You can erase any line, or all of it. How to check: Erase a line on that page. Delete your account and it all goes.
+- You can take a copy. How to check: Us, then Her memory, then the ⋯ button, then Export my memory. You get what she knows, her map, her diary and her dreams as plain text files.
+- It is never sold and never used for ads. How to check: It is written in the privacy policy, the document we answer to.
+- She asks who writes her replies before your first talk. How to check: Say yes, and an outside AI model writes them. Or keep it Private, and only our own model answers. A video call uses the outside model, in Private too, and asks you first.
+- Your health data is never sent to any AI company. How to check: The same sentence is on the Apple Health permission screen and in the privacy policy.
+- She is an AI, and she says so. How to check: Ask her.
+
+### If we work inside your company
+
+- It runs on your own machines. How to check: Drawings, prices and people’s names stay in the building.
+- AI never signs. How to check: Every quote, report and approval is drafted by an agent and signed by a person.
+- Every step is logged. How to check: The log sits on your own machines, with everything else.
+- Nothing we write moves a real robot before three checks. How to check: Your real settings are in, the program runs clean in the robot maker’s own simulator, and a person watches a dry run.
+
+### If you build on Nenai
+
+- A forgotten memory leaves search at once. How to check: One call forgets it. For 30 days it can be brought back.
+- One call erases everything about one user. How to check: For the day one of your users asks you to delete their data.
+- Memory text can be kept away from outside models. How to check: Switch the project to local only.
+- Your key stays on your server. How to check: The JavaScript client refuses to start in a browser.
+
+### On this website
+
+- No cookies, no trackers, no adverts. How to check: Open your browser’s storage inspector on any page. It is empty.
+- Nothing is loaded from another company’s servers. How to check: The fonts, pictures and scripts all come from this address.
+- The contact form sends only what you type. How to check: The page says, before you press the button, exactly how your message will travel.
+
+Write to hello@aneeta.ai. If you ask us about your own data, to see it, correct it or have it deleted, we answer within thirty days. ANITA Artificial Neuro Intelligence Technologies Private Limited, a company in Chennai, India, decides how what you tell Curl is used, and answers for it.
+
+## The company
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/company/
+
+We come from robotics. A robot in your home will only be as good as what it knows about you. We are building that part first: the brain.
+
+It is knowing the people it lives with. Hands can be bought. Knowing someone takes time, and it cannot be hurried on the day the robot arrives. So the brain learns now, on the phone you already carry. When a body is ready, the idea is that it moves in with everything it knows. The same brain earns its keep in the meantime. It drafts the paperwork in a company’s office, and we are designing the robot cells that will put it to work on the factory floor.
+
+- Founded: 2026
+- Home: Chennai, India
+- Registered as: ANITA Artificial Neuro Intelligence Technologies Pvt Ltd
+- Founder: Deepak Ananthapadman, robotics engineer
+- Team: A small team of robotics, AI and product engineers
+- Write to: hello@aneeta.ai
+
+**Is ANITA the app or the company?** The company. The companion in the app is Curl, and the memory underneath is Nenai. For now the app is submitted to the App Store under the company’s name.
+
+**Where is ANITA based?** In Chennai, India. The company was founded in 2026.
+
+**What does ANITA make?** Four things from one idea: Curl, a companion on your phone; Nenai, a memory for AI apps; AI agents for office work; and robot cells and cameras for the factory floor.
+
+## Research: Agents move data. Physical AI moves atoms.
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/research/agents-move-data-physical-ai-moves-atoms/ · 2026-11-18
+
+A factory does two kinds of work. Some of it moves data: an enquiry is read, a past job is looked up, a quote is written, an approval is given. The rest moves atoms: steel is welded, a sack is lifted, a box comes off a truck.
+
+AI can now help with both. But the two are not the same kind of risk, and a company that treats them the same will either move too slowly in the office or too fast on the floor.
+
+## A wrong draft and a wrong weld
+
+When an AI agent drafts a proposal badly, a person reads it, sighs and fixes it. The cost is a few minutes.
+
+When software moves a robot badly, the cost is a scrapped part, a stopped line, or a person standing in the wrong place. Nobody gets to fix that with a red pen.
+
+So we sort every job by one question: **if this goes wrong, what breaks?** The answer puts the job on one of four rungs.
+
+## The four rungs
+
+**1. The office.** Agents read, match and draft. People approve. Nothing on the factory floor is touched. If the agent is wrong, a person catches it at the signature, because the agent never signs.
+
+**2. Cameras that watch.** A camera looks at the line and says what it sees: this part is flawed, this pallet is short. It does not move anything. If it is wrong, a person looks again.
+
+**3. Software that moves the machine.** Now the program decides where the torch goes, or which sack the arm lifts. A mistake has a physical cost, so this rung needs proof before it is allowed near real hardware.
+
+**4. A body.** A robot that works among people, at home or at work. This is where the whole field is heading, and it is the furthest away.
+
+Each rung up asks for more trust than the one before. We think that trust has to be earned in order.
+
+## Why the office is not a detour
+
+It is tempting for a robotics team to skip straight to the robot. We come from robotics, and we chose not to.
+
+The office teaches you the company. Which jobs it has done before. What it calls its own operations. Who signs what. A robot cell designed without that knowledge is designed for a factory that does not exist.
+
+The skills also carry over. An agent that reads an enquiry and finds the three closest past projects is doing the same thing, underneath, as a camera system that looks at a part and finds what it most resembles. In both cases the hard part is not the answer. It is knowing how sure you are, and saying so.
+
+## What we hold ourselves to
+
+Four habits, on every rung:
+
+- **A person decides.** Agents draft. People sign. On the floor, a person is in the room for the first run.
+- **Practice comes first.** Every robot move is tried in a computer before a robot makes it.
+- **The maker's own check.** A robot program is run in the robot maker's own simulation software, not only in ours, before it goes near the real arm.
+- **One honest line.** Each piece of work is marked with what works today and what is still the plan.
+
+## Where we are today
+
+On the first rung, we are building agentic workflows with a first customer. Some of it works today, and some is still planned.
+
+On the second, camera inspection is planned. We have not built a station yet.
+
+On the third, our welding software writes a robot's program from a 3D model and tests it on screen. It has not yet welded a real part. A robot cell for emptying sacks is being designed in simulation.
+
+The fourth rung is later.
+
+That is a slower story than a video of a robot doing something impressive. We think the order matters more than the speed.
+
+## Research: How to read an AI memory benchmark
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/research/how-to-read-a-memory-benchmark/ · 2026-11-18
+
+"It remembers you" is a sentence any AI product can print. A score is harder to print, which is why memory systems now quote benchmark numbers. The numbers are useful. They are also easy to misread.
+
+This is a short guide to what the common tests measure, what they do not, and what to ask before you believe a number. That includes ours.
+
+## What the tests are
+
+A memory benchmark gives a system a long history of conversation, then asks questions that can only be answered from that history.
+
+**LoCoMo** is one of the first widely used ones. Its conversations are long on purpose: about 300 turns and 9,000 tokens each on average, spread over as many as 35 sessions. It asks questions about them, and also tests summarising events ([Maharana and others, 2024](https://arxiv.org/abs/2402.17753)).
+
+**LongMemEval** has 500 questions and sorts them by the ability each one needs: pulling out a fact, reasoning across several sessions, reasoning about time, noticing that a fact has changed, and knowing when to say "I was never told that". Its authors found that commercial chat assistants and long-context models lost about 30% accuracy when they had to hold information across sustained use ([Wu and others, ICLR 2025](https://arxiv.org/abs/2410.10813)).
+
+**Leaderboards** put several tests together. The [Agent Memory Leaderboard](https://agent-memory-leaderboard-leaderboard.static.hf.space/index.html), for example, runs six text benchmarks and reports seven kinds of ability, among them plain fact recall, reasoning about time and events, and two that most single tests skip: how a system governs its memory, and how it handles privacy.
+
+## What a score does not tell you
+
+**Which model answered.** A memory system finds the right lines. A language model then writes the answer from them. Swap that model for a stronger one and the score rises, though the memory has not changed. Two scores are only comparable if the same model answered and the same model marked.
+
+**How much was fetched.** A system that hands the model fifty lines will often beat one that hands it five. It will also cost more on every question, and it will be slower. A score with no cost beside it is half a result.
+
+**Whether the system was tuned on the test.** If the people who built it adjusted it while looking at the test's own questions, the number says how well it knows the test, not how well it will know your users.
+
+**Whether it can forget.** Most tests reward a system for holding on to everything. Real users say "forget that". A system that cannot do so cleanly is a problem no recall score will show you.
+
+**Whether your users talk like the test.** Benchmark conversations are tidy English. Yours may be short, mixed-language and full of names. The only test that settles it is your own data.
+
+## Five questions for any memory vendor
+
+1. Which benchmark, and which version of it?
+2. Which model wrote the answers, and which model marked them?
+3. Was the system adjusted using the test's own questions?
+4. What happens, step by step, when a user says "forget that"?
+5. What does one stored conversation cost, what does one search cost, and how long does a search take?
+
+A vendor who answers all five plainly is worth a trial. One who answers with a bigger number is not.
+
+## Where we stand
+
+Nenai, our memory engine, is entered in the Agent Memory Leaderboard. Its review is not published yet, so we are not quoting a score here. When it is, we will link the result from the [Nenai page](/nenai/), with the model that answered beside it.
+
+We work to one rule when we measure ourselves: we test on a copy we build from the public data, and we do not tune on the questions a benchmark holds back.
+
+And the five questions above are the ones we expect to be asked.
+
+## Research: Why a robot should practise before it touches your floor
+
+Page: https://ysu-ganesan.github.io/anita-claude-v4/research/why-a-robot-should-practise-first/ · 2026-11-18
+
+Many welding robots are still taught the way they were decades ago. A person stands at the cell with a hand controller and walks the arm to each weld, one point at a time. While they do it, the cell makes nothing.
+
+There is a better way, and it has a catch. This note explains both.
+
+## Writing the program away from the robot
+
+A fabricated part already exists as a 3D model before it exists as steel. That model holds most of what a program needs: where the plates meet, where a seam could run, where the torch can and cannot reach.
+
+So the program can be written from the model, at a desk, while the robot carries on working. Our welding software does this. You give it the 3D model. It finds the seams and ranks them, an operator confirms the order, and it plans the torch paths.
+
+Then it tests them. A digital twin, which is a computer copy of the cell, runs every move and checks two things: can the arm reach, and does anything collide.
+
+## The catch
+
+A computer copy is never exactly the real thing. A torch sits a few millimetres from where the model says. A jig has been shimmed. A plate arrives slightly bowed. Roboticists call this the gap between simulation and reality, and every team that has ignored it has a story about the day they found it.
+
+So a clean run in our own software is where checking starts. It is not where it ends.
+
+## Three checks before real hardware
+
+Nothing we write moves a real robot until three things are true.
+
+**The real settings are in.** A 3D model carries shapes. It does not carry weld settings. Those come from the customer's own approved weld sheet. Until they are in, the program is a sketch.
+
+**It runs clean in the maker's simulator.** Robot makers publish their own simulation software, which models their own arms and controllers better than anyone else can. The program has to run without a fault there, not only in ours.
+
+**A person watches a dry run.** The first run on the real robot is supervised, with no welding. If the arm goes somewhere it should not, a hand is on the stop button.
+
+None of this is clever. It is the plain order of work that keeps a new program from costing someone a part, a day or worse.
+
+## Soft things are harder
+
+Steel holds its shape. A 20 kg sack of sugar does not. It slumps, it folds, and the stack changes every time one is taken.
+
+For a robot cell that empties sacks, practising in simulation means teaching the computer how a floppy sack behaves, then showing the cameras many made-up pictures of sacks before they ever see a real one. We have laid the cell out in simulation and chosen where the cameras go. Simulating the sack itself is the next piece of work, and it is not done.
+
+## What to ask anyone selling you automation
+
+- Can I see the program run in the robot maker's own simulator?
+- What did you assume about my part and my settings, and where did those numbers come from?
+- Who is in the room for the first run, and is the process switched off?
+
+Anyone doing the work properly will be glad you asked.
+
+## Where we are today
+
+Our welding software works end to end in computer tests on a reference part. It has not welded a real part yet. The three checks above stand between today and that day, and we will not skip one.

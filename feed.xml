@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANITA research</title>
+    <link>https://ysu-ganesan.github.io/anita-claude-v4/research/</link>
+    <atom:link href="https://ysu-ganesan.github.io/anita-claude-v4/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Notes on AI memory, agents and robots from ANITA.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Agents move data. Physical AI moves atoms.</title>
+      <link>https://ysu-ganesan.github.io/anita-claude-v4/research/agents-move-data-physical-ai-moves-atoms/</link>
+      <guid isPermaLink="true">https://ysu-ganesan.github.io/anita-claude-v4/research/agents-move-data-physical-ai-moves-atoms/</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Physical AI</category>
+      <description>Why we start in a factory's office before we go near its machines, and the four rungs between an AI agent that drafts a quote and a robot that lifts a sack.</description>
+    </item>
+    <item>
+      <title>How to read an AI memory benchmark</title>
+      <link>https://ysu-ganesan.github.io/anita-claude-v4/research/how-to-read-a-memory-benchmark/</link>
+      <guid isPermaLink="true">https://ysu-ganesan.github.io/anita-claude-v4/research/how-to-read-a-memory-benchmark/</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Memory</category>
+      <description>Every memory system for AI now quotes a score. Here is what the main tests measure, what they leave out, and five questions to ask any vendor, including us.</description>
+    </item>
+    <item>
+      <title>Why a robot should practise before it touches your floor</title>
+      <link>https://ysu-ganesan.github.io/anita-claude-v4/research/why-a-robot-should-practise-first/</link>
+      <guid isPermaLink="true">https://ysu-ganesan.github.io/anita-claude-v4/research/why-a-robot-should-practise-first/</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Physical AI</category>
+      <description>A mistake in a computer costs nothing. A mistake on a factory floor costs scrap or a stopped line. How simulation and three plain checks stand between our software and a real robot.</description>
+    </item>
+  </channel>
+</rss>
